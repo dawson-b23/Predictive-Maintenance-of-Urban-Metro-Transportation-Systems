@@ -109,7 +109,7 @@ For more details on the dataset, please refer to the original publication by Vel
    ```
 
 3. **Download the dataset**:
-   - Access the MetroPT-3 dataset [here]([https://www.kaggle.com/datasets/edsa-project/metropt-3](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset).
+   - Access the MetroPT-3 dataset [here](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset).
    - Place the dataset in the `data/` directory or update the file path in `data_cleaning_and_prep.py`.
 
 4. Run data preparation
