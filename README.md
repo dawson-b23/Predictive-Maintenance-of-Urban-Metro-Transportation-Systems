@@ -99,7 +99,7 @@ For more details on the dataset, please refer to the original publication by Vel
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/dawson-b23/Predictive-Maintenance-of-Urban-Metro-Transportation-Systems
    ```
 
 2. Install Requirements
