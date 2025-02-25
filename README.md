@@ -36,7 +36,7 @@ The **MetroPT-3 dataset** is a multivariate time-series dataset collected from m
 - Removed noise by filtering records with time differences >10 seconds (51,147 points dropped).
 - Downsampled non-failure instances to balance the dataset (1:1 ratio with failures).
 
-The **MetroPT-3 dataset** used in this project is publicly available and can be accessed [here](https://www.kaggle.com/datasets/edsa-project/metropt-3). It contains over 15 million instances of sensor data from urban metro compressor units in Porto, Portugal, sampled approximately every 10 seconds. The dataset includes both analog and digital sensor signals, along with labeled failure events, making it ideal for predictive maintenance applications.
+The **MetroPT-3 dataset** used in this project is publicly available and can be accessed [here](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset). It contains over 15 million instances of sensor data from urban metro compressor units in Porto, Portugal, sampled approximately every 10 seconds. The dataset includes both analog and digital sensor signals, along with labeled failure events, making it ideal for predictive maintenance applications.
 
 For more details on the dataset, please refer to the original publication by Veloso et al. (2022).
 
@@ -109,7 +109,7 @@ For more details on the dataset, please refer to the original publication by Vel
    ```
 
 3. **Download the dataset**:
-   - Access the MetroPT-3 dataset [here](https://www.kaggle.com/datasets/edsa-project/metropt-3).
+   - Access the MetroPT-3 dataset [here]([https://www.kaggle.com/datasets/edsa-project/metropt-3](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset).
    - Place the dataset in the `data/` directory or update the file path in `data_cleaning_and_prep.py`.
 
 4. Run data preparation
